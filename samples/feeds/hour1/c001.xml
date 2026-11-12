@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>sample feed</title>
+    <item>
+      <title>Northwind Supplies faces fraud probe over invoicing - Daily Ledger</title>
+      <link>https://dailyledger.example/business/northwind-fraud-probe</link>
+      <description>Prosecutors opened a fraud investigation into invoicing practices at Northwind Supplies, the company confirmed on Monday.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://dailyledger.example">dailyledger.example</source>
+    </item>
+    <item>
+      <title>Northwind Supplies faces fraud probe over invoicing - Daily Ledger</title>
+      <link>https://www.dailyledger.example/business/northwind-fraud-probe/?utm_source=feed&amp;utm_medium=rss</link>
+      <description>Prosecutors opened a fraud investigation into invoicing practices at Northwind Supplies.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://dailyledger.example">dailyledger.example</source>
+    </item>
+    <item>
+      <title>Northwind Supplies faces fraud probe over invoicing | Wire Copy</title>
+      <link>https://wirecopy.example/2026/03/09/northwind-supplies-probe</link>
+      <description>Syndicated: prosecutors opened a fraud investigation into Northwind Supplies.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://wirecopy.example">wirecopy.example</source>
+    </item>
+    <item>
+      <title>Northwind appoints new chief executive</title>
+      <link>https://tradepress.example/people/northwind-new-ceo</link>
+      <description>Northwind said its board appoints a new CEO effective April.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://tradepress.example">tradepress.example</source>
+    </item>
+    <item>
+      <title>Northwind Supplies share price and quote</title>
+      <link>https://marketdata.example/quote/NWS</link>
+      <description>Live share price, charts and company profile.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://marketdata.example">marketdata.example</source>
+    </item>
+    <item>
+      <title>Northwind Traders opens a second shop</title>
+      <link>https://localnews.example/northwind-traders-shop</link>
+      <description>Northwind Traders, the outdoor retailer, opened a second shop.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://localnews.example">localnews.example</source>
+    </item>
+    <item>
+      <title>Suppliers warn of packaging shortages</title>
+      <link>https://tradepress.example/markets/packaging-shortages</link>
+      <description>Industry groups warn of shortages across the packaging sector.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://tradepress.example">tradepress.example</source>
+    </item>
+  </channel>
+</rss>

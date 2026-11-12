@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>sample feed</title>
+    <item>
+      <title>Bluefield Components files for bankruptcy protection</title>
+      <link>https://dailyledger.example/business/bluefield-bankruptcy?gclid=abc123</link>
+      <description>Bluefield Components filed for bankruptcy protection after a default on its loans.</description>
+      <pubDate>Mon, 09 Mar 2026 09:05:00 GMT</pubDate>
+      <source url="https://dailyledger.example">dailyledger.example</source>
+    </item>
+  </channel>
+</rss>

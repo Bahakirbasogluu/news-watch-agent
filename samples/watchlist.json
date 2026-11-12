@@ -1,0 +1,6 @@
+[
+  {"id": "c001", "name": "Northwind Supplies", "aliases": ["Northwind"], "negative_keywords": ["Northwind Traders"]},
+  {"id": "c002", "name": "Marmara Kimya", "aliases": ["Marmara Chemicals"], "negative_keywords": []},
+  {"id": "c003", "name": "Atlas Lojistik", "aliases": ["Atlas Logistics", "Atlas"], "negative_keywords": ["Atlas Copco", "Atlas Mountains", "Atlas V"]},
+  {"id": "c004", "name": "Bluefield Components", "aliases": [], "negative_keywords": []}
+]

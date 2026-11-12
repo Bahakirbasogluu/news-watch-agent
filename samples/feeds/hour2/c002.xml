@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>sample feed</title>
+    <item>
+      <title>Marmara Kimya yeni fabrika yatırımını duyurdu - Sanayi Haber</title>
+      <link>https://sanayihaber.example/kimya/marmara-kimya-fabrika</link>
+      <description>Marmara Kimya, Kocaeli'de yeni bir fabrika yatırımı yapacağını açıkladı.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://sanayihaber.example">sanayihaber.example</source>
+    </item>
+    <item>
+      <title>Marmara Chemicals to build new plant in Kocaeli</title>
+      <link>https://tradepress.example/chemicals/marmara-new-plant</link>
+      <description>Marmara Chemicals announced an expansion with a new plant.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://tradepress.example">tradepress.example</source>
+    </item>
+    <item>
+      <title>Results</title>
+      <link>https://sanayihaber.example/kimya/marmara-kimya-sonuclar</link>
+      <description>Marmara Kimya yıllık sonuçlarını açıkladı.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://sanayihaber.example">sanayihaber.example</source>
+    </item>
+    <item>
+      <title>Kimya sektöründe ihracat arttı</title>
+      <link>https://sanayihaber.example/kimya/ihracat</link>
+      <description>Sektör ihracatı geçen yıla göre arttı.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://sanayihaber.example">sanayihaber.example</source>
+    </item>
+  </channel>
+</rss>

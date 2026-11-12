@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>sample feed</title>
+    <item>
+      <title>Northwind Supplies faces fraud probe over invoicing - Daily Ledger</title>
+      <link>https://dailyledger.example/business/northwind-fraud-probe</link>
+      <description>Prosecutors opened a fraud investigation into invoicing practices at Northwind Supplies, the company confirmed on Monday.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://dailyledger.example">dailyledger.example</source>
+    </item>
+    <item>
+      <title>Northwind Supplies faces fraud probe over invoicing - Daily Ledger</title>
+      <link>https://www.dailyledger.example/business/northwind-fraud-probe/?utm_source=feed&amp;utm_medium=rss</link>
+      <description>Prosecutors opened a fraud investigation into invoicing practices at Northwind Supplies.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://dailyledger.example">dailyledger.example</source>
+    </item>
+    <item>
+      <title>Northwind Supplies faces fraud probe over invoicing | Wire Copy</title>
+      <link>https://wirecopy.example/2026/03/09/northwind-supplies-probe</link>
+      <description>Syndicated: prosecutors opened a fraud investigation into Northwind Supplies.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://wirecopy.example">wirecopy.example</source>
+    </item>
+    <item>
+      <title>Northwind appoints new chief executive</title>
+      <link>https://tradepress.example/people/northwind-new-ceo</link>
+      <description>Northwind said its board appoints a new CEO effective April.</description>
+      <pubDate>Mon, 09 Mar 2026 08:10:00 GMT</pubDate>
+      <source url="https://tradepress.example">tradepress.example</source>
+    </item>
+    <item>
+      <title>Northwind Supplies sued by former distributor</title>
+      <link>https://dailyledger.example/business/northwind-lawsuit</link>
+      <description>A former distributor filed a lawsuit against Northwind Supplies in commercial court.</description>
+      <pubDate>Mon, 09 Mar 2026 09:05:00 GMT</pubDate>
+      <source url="https://dailyledger.example">dailyledger.example</source>
+    </item>
+  </channel>
+</rss>
