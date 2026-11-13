@@ -1,5 +1,7 @@
 # newswatch
 
+[![CI](https://github.com/Bahakirbasogluu/news-watch-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Bahakirbasogluu/news-watch-agent/actions/workflows/ci.yml)
+
 A news-watch agent. Every hour it scans the press for the companies on a watch-list and sends one deduplicated digest of what is new. When nothing is new it sends nothing.
 
 The design comes from a system I built for a bank's relationship teams, who used to follow press coverage of their clients by hand. The code here is written from scratch and runs on invented companies and feeds; it contains no client code or data.
